@@ -4,7 +4,7 @@ ELECFREAKS manufactures the [CuteBot](https://www.elecfreaks.com/micro-bit-smart
 In our attempt to create lessons and code for our students, we discovered that another individual had already forged a path forward with this device in Mu-Editor: [Krakenus](https://github.com/Krakenus/microbit-cutebot-micropython). Using his examples to teach ourselves, we began assembling lessons and making code to achieve the goals our students desired
 
 <p align="center">
-  <img src="../imgs/cutebotcar.jpg" width="500"/>
+  <img src="imgs/cutebotcar.jpg" width="500"/>
 </p>
 
 ---
