@@ -28,7 +28,7 @@ This is our cutebotcar library, chock full of function defintions that can allow
 * Sensing using ultra sonic sensors via the I2C bus
 * I2C commands to other peripherals
 
-### radioRECIEVER.py
+### radioReceiver.py
 This is our receiver that listens for commands from our transmitting Micro:Bit.
 
 ---
